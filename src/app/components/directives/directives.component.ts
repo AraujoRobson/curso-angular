@@ -11,7 +11,6 @@ export class DirectivesComponent implements OnInit {
   color = 'red';
 
   classes = ['green-title', 'small-title'];
-
   underline = 'underline-title';
 
   constructor() {}
